@@ -51,6 +51,9 @@ Special thanks to the following resources for their inspiration and guidance dur
 The Youtube Channel : JavaScript Mastery 
 https://www.youtube.com/@javascriptmastery
 
+## Link 
+To visit the dashboard please visit the link : https://dashboard-shoppy.netlify.app/
+
 
 
 
