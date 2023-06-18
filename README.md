@@ -4,6 +4,9 @@
 
 This project is a responsive dashboard built using React, Tailwind CSS, and Syncfusion. It provides a comprehensive solution for data visualization and management.
 
+![shppydashboard](https://github.com/Lyam0udi/reactdashboard/assets/67929106/b85d3dd8-d88a-4ffc-b94e-9e149d33592c)
+
+
 ## Features
 
 - Interactive charts and graphs to visualize data in real-time.
@@ -53,13 +56,3 @@ https://www.youtube.com/@javascriptmastery
 
 ## Link 
 To visit the dashboard please visit the link : https://dashboard-shoppy.netlify.app/
-
-
-
-
-
-
-
-
-
-
